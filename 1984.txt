@@ -1,12 +1,13 @@
-<<<<<<< HEAD
 It was a bright cold day in april.
 My name is Sheela.
 This is Abhishek Raj.
-=======
-<<<<<<< HEAD
 It was a bright cold day in april- ADARSH
-=======
 It was a bright cold day in april
+Himanshi
+
+
+
+
+Verry GOOD- By Himanshi
 This is Preethi Pantangi
->>>>>>> 4e7efe46d62662644d22bee6152a5e445f96ed99
->>>>>>> 496d66fa42a54ddd1eb7c93a1037f9198a8fa5bd
+
