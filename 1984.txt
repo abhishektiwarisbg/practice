@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 It was a bright cold day in april- ADARSH
+=======
+It was a bright cold day in april
+This is Preethi Pantangi
+>>>>>>> 4e7efe46d62662644d22bee6152a5e445f96ed99
